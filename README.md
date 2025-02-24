@@ -75,7 +75,17 @@ Step 16: Publish the report to Power BI Service for real-time monitoring and acc
  The report was then published to Power BI Service.
  
 # Snapshot of Dashboard (Power BI Service)
+![Image](https://github.com/user-attachments/assets/290d612d-0f41-478d-99f2-595c196d40af)
 
+
+
+
+![Image](https://github.com/user-attachments/assets/d1f302ca-4d3a-4282-b55c-885dda7f45d3)
+
+
+#Document Tracking Analysis
+
+![Image](https://github.com/user-attachments/assets/bf476edf-0ea2-42a7-a2d8-ed908d1e3227)
 
 
 
